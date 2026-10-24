@@ -1,0 +1,11 @@
+{
+  "name": "Google Play",
+  "original_filename": "com.android.vending_53.5.48-24_0_PR_995634172-85354800_minAPI24(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk",
+  "filename": "google-play-53.5.48.apk",
+  "url": "https://github.com/wangyong5609/claude-subscription-guide/releases/download/attachments-v1/google-play-53.5.48.apk",
+  "bytes": 110774931,
+  "sha256": "0bc9e6583236430c96ad2aa0cee5a3aa8b08bee298e421bab0bdac0a4bc53532",
+  "zip_valid": true,
+  "android_manifest_present": true,
+  "dex_present": true
+}
